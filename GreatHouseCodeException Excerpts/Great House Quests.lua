@@ -21,7 +21,8 @@ end
 
 
 --After Code Changes
---(Now Starts and ends on lines 471 and 505 respectively -how the fudge did it move so far down the code? of new eventHandler.lua)
+--(Now Starts and ends on lines 471 and 505 respectively -how the fudge did it move so far down the code?- of new eventHandler.lua)
+--Is change in line placement result of plugins and scripts running on server?
 eventHandler.GreatHouseQuestException = function(pid)
 
     local GHQuestPrefixes = { "ht", "hr", "hh" }
